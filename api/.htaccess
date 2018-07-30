@@ -8,6 +8,6 @@
 
 
 AuthUserFile "./.htpasswd"
-AuthName "ProjeQtOr" 
+AuthName "ProjectKenya" 
 AuthType Basic
 require valid-user
